@@ -26,7 +26,7 @@ PyPlanner doesn't just help you manage tasks; it also keeps you informed about t
 
 1. Clone this repo:
 
-   git clone https://github.com/your_username/PyPlanner.git
+   git clone https://github.com/Bot-code-2003/PyPlanner.git
 
 2. Install any dependencies (if needed):
    pip install -r requirements.txt
