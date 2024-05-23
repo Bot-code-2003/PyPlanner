@@ -31,6 +31,8 @@ PyPlanner doesn't just help you manage tasks; it also keeps you informed about t
 2. Install any dependencies (if needed):
    pip install -r requirements.txt
 
+3. Run the code.
+
 ### Let's Dive In!
 
 1. Fire up PyPlanner by running `project.py`:
