@@ -1,5 +1,7 @@
 # PyPlanner: Your Personal Task Buddy
 
+#### Video Demo: https://www.youtube.com/watch?v=HD59ycxtqFw
+
 Hey there! Welcome to PyPlanner - your go-to terminal task manager with a dash of personality! If you're all about getting things done without the fuss, you're in the right place.
 
 ## What's PyPlanner All About?
